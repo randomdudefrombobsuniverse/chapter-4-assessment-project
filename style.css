@@ -2,3 +2,13 @@
     background-color: lightgray;
     padding: 20px;
 }
+.hero {
+    background-color: #c7c7c7;
+    padding: 40px;
+}
+.navbar {
+    margin-bottom: 0;
+}
+.myform {
+    margin: 40px;
+}
